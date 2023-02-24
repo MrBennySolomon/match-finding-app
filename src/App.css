@@ -1,38 +1,116 @@
-.App {
-  text-align: center;
+html {
+  font-size: 62.5%;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #333;
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
   display: flex;
-  flex-direction: column;
-  align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
+  align-items: center;
+  flex-direction: column;
+  gap: 2rem;
+
+  width: 100vw;
+  height: 100vh;
+
   color: white;
+  
 }
 
-.App-link {
-  color: #61dafb;
+nav {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  
+  width: 98vw;
+  height: 18vh;
+  border: 2px solid white;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  width: 98vw;
+  height: 50vh;
+  border: 2px solid white;
+
+}
+
+div.description {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  width: 98vw;
+  height: 10vh;
+  border: 2px solid white;
+  font-size: 1.9rem;
+}
+
+footer {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+
+  width: 98vw;
+  height: 18vh;
+  border: 2px solid white;
+
+}
+
+h1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  font-size: 3.8rem
+}
+
+button {
+  width: 100px;
+  height: 100px;
+}
+
+.good {
+  background: url(./img/good.png) no-repeat center center/cover;
+}
+
+.bad {
+  background: url(./img/bad.png) no-repeat center center/cover;
+}
+
+.bird {
+  background: url(./img/bird.jpg) no-repeat center center/contain;
+}
+.butterflies {
+  background: url(./img/butterflies.jpg) no-repeat center center/contain;
+}
+.cat {
+  background: url(./img/cat.jpg) no-repeat center center/contain;
+}
+.fox {
+  background: url(./img/fox.jpg) no-repeat center center/contain;
+}
+.giraff {
+  background: url(./img/giraff.jpg) no-repeat center center/contain;
+}
+.horse {
+  background: url(./img/horse.jpg) no-repeat center center/contain;
+}
+.owl {
+  background: url(./img/owl.jpg) no-repeat center center/contain;
+}
+.swans {
+  background: url(./img/swans.jpg) no-repeat center center/contain;
+}
+.zebra {
+  background: url(./img/zebra.jpg) no-repeat center center/contain;
 }
