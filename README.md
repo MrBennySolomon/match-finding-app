@@ -1,6 +1,6 @@
 -------------------------------------------------------------------------------------------------
 # [Match Finding App](https://match-finding-app.netlify.app/)
-### react app with phothos and description, witch you need to choose true or false, mobile first approach
+### react app with phothos and description, witch you need to choose true or false, mobile first approach and counter to count the points.
 -------------------------------------------------------------------------------------------------
 ## [live demo at: https://match-finding-app.netlify.app/](https://match-finding-app.netlify.app/)
 -------------------------------------------------------------------------------------------------
