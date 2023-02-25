@@ -1,3 +1,20 @@
+-------------------------------------------------------------------------------------------------
+# [Match Finding App](https://match-finding-app.netlify.app/)
+### react app with phothos and description, witch you need to choose true or false, mobile first approach
+-------------------------------------------------------------------------------------------------
+## [live demo at: https://match-finding-app.netlify.app/](https://match-finding-app.netlify.app/)
+-------------------------------------------------------------------------------------------------
+## diagram:
+![matching_app_diagram](https://user-images.githubusercontent.com/53153372/221371048-3407abb4-8d14-4a1b-aa3f-2d67d939ea20.png)
+-------------------------------------------------------------------------------------------------
+## screenshots:
+![screenshot1](https://user-images.githubusercontent.com/53153372/221371322-2f91e06f-2c2b-419f-aefc-dd34827c8821.png)
+![screenshot2](https://user-images.githubusercontent.com/53153372/221371332-07dc23dc-3123-4a64-bd43-055ee7cd4305.png)
+![screenshot3](https://user-images.githubusercontent.com/53153372/221371339-b8b9a110-26c3-404c-bf8b-4af7a7862ed9.png)
+![screenshot4](https://user-images.githubusercontent.com/53153372/221371352-67a8dea9-f349-48e9-a3e8-5a739eed8732.png)
+![screenshot5](https://user-images.githubusercontent.com/53153372/221371359-75c6fdaf-b635-4707-9dda-60b19714c689.png)
+![screenshot6](https://user-images.githubusercontent.com/53153372/221371362-ccdd7de1-d68b-413d-b560-5f9f32e01997.png)
+-------------------------------------------------------------------------------------------------
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
